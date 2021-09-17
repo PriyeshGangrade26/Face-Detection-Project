@@ -10,5 +10,5 @@ Face alignment is the task of identifying the geometric structure of faces in di
 Using Face Alignment we can get higher accuracy from our face recognition. As Face Alignment is like data normalization.
 
 Human Activity Recognition:-
-Human activity recognition model can recognize over 400 activities with 78.4-94.5% accuracy.
+Human activity recognition model can recognize over 400 activities with 78.4-94.5% accuracy. 
 
